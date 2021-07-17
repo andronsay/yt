@@ -4,7 +4,9 @@ This is a silly YouTube program that will allow you to open certain YouTube page
 Music / Study Music
 ---
 [smlo] - study music lofi
+
 [smpi] - study music piano
+
 [smkp] - study music kpop
 [smbt] - study music bts
 [smkp] - study music korean
