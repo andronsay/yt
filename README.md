@@ -4,7 +4,7 @@ This is a silly YouTube program that will allow you to open certain YouTube page
 
 Console commands
 ---
-* Music / Study Music
+* #### Music / Study Music ####
   * [smlo] - study music lofi ['+lofi']
   * [smpi] - study music piano ['+piano']
   * [smkp] - study music kpop ['+kpop']
