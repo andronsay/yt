@@ -16,9 +16,9 @@ Console commands
   * [smae] - study music aesthetic ['+aesthetic']
   * [smlb] - study music library ['+library']
 
-* Music / Game Ambience
+* #### Music / Game Ambience ####
   * [gadm] - game ambience DOOM ['+doom']
   * [gaai] - game ambience Alien Isolation ['alien+isolation']
 
-* Bloggers / Game Bloggers
+* #### Bloggers / Game Bloggers ####
   * [gbpp] - PewDiePie ['PewDiePie']
