@@ -1,5 +1,5 @@
 # yt.exe - Silly Program for YouTube
-Это глупая программа которая позволит быстро открыть нужную страницу YouTube используя одну команду из 4 букв. Просто запустите консольное приложеное yt с указанной ниже командой и все.
+This is a silly program that will quickly open the desired YouTube page using a single 4 letter command. Just run the console appended yt with the command below and that's it.
 
 Console commands
 ---
