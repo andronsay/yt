@@ -28,3 +28,12 @@ I have added only those basic commands that I myself use, so if you have any ide
 The principle of adding commands
 ---
 The basic principle of adding new commands is simple - all old commands are left untouched. Those. each new command must be 4 characters long and cannot be the same or replace the commands already added.
+
+Version history
+---
+<ul>
+<li>0.1.0.0<ul>
+<li>First release</li>
+<li>16 console commands</li>
+<li>Pascal programming language</li></ul></li>
+</ul>
