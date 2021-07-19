@@ -9,7 +9,9 @@ Using the app
 ---
 yt.exe is a console application that takes only 1 argument, so you just need to specify the application name and command in the command line:
 ```
-yt smlo - open Music/Study Music/Lofi
+yt smlo - open Music / Study Music / Lofi
+yt smjp - open Music / Study Music / Japanese
+yt smlb - open Music / Study Music / Library
 ```
 
 
