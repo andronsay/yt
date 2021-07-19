@@ -14,7 +14,14 @@ yt smjp - open Music / Study Music / Japanese
 yt gadm - open Music / Game Ambience / DOOM
 ```
 
-
 Console commands
 ---
 <ul><li><strong>Music</strong><ul><li><strong>Study Music</strong><ul><li>[smlo] - Lofi</li><li>[smpi] - Piano</li><li>[smkp] - Korean</li><li>[smbt] - BTS</li><li>[smjp] - Japanese</li><li>[sman] - Anime</li><li>[smra] - Rain</li><li>[smae] - Aesthetic</li><li>[smlb] - Library</li></ul></li><li><strong>Game Ambience</strong><ul><li>[gadm] - DOOM</li><li>[gaai] - Alien Isolation</li><li>[gads] - Dead Space</li><li>[gash] - Silent Hill</li><li>[galu] - The Last of Us</li><li>[gask] - The Elder Scrolls V: Skyrim</li></ul></li></ul></li><li><strong>Bloggers</strong><ul><li><strong>Game Bloggers</strong><ul><li>[gbpp] - PewDiePie</li></ul></li></ul></li></ul>
+
+Why are there so few console commands
+---
+I have added only those basic commands that I myself use, so if you have any ideas what commands could be added more, I am waiting for the upcoming suggestions.
+
+The principle of adding commands
+---
+The basic principle of adding new commands is simple - all old commands are left untouched. Those. each new command must be 4 characters long and cannot be the same or replace the commands already added.
