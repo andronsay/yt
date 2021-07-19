@@ -6,6 +6,11 @@ Console commands
 ---
 * ### Music ###
 
+<ul>
+  <li>Redes de Computadores</li>
+  <li>Sistemas para Internet</li>
+</ul>
+
 * #### Study Music ####
 
 * [smlo] - study+music+lofi
