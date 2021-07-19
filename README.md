@@ -9,6 +9,7 @@ Using the app
 ---
 
 ![main_console](https://github.com/andronsay/yt.exe/blob/main/Help/main_console.jpg)
+![open_page](https://github.com/andronsay/yt.exe/blob/main/Help/open_page.jpg)
 
 yt.exe is a console application that takes only 1 argument, so you just need to specify the application name and command in the command line:
 ```
