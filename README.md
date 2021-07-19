@@ -11,7 +11,7 @@ yt.exe is a console application that takes only 1 argument, so you just need to 
 ```
 yt smlo - open Music / Study Music / Lofi
 yt smjp - open Music / Study Music / Japanese
-yt smlb - open Music / Study Music / Library
+yt gadm - open Music / Game Ambience / DOOM
 ```
 
 
