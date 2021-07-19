@@ -5,9 +5,13 @@ Installation
 ---
 You can install yt.exe to any location convenient for you, however, for a quick launch from the command line, it is recommended to copy it to the system folder (C:\Windows\System32\).
 
+<yt smlo>
+
 Using the app
 ---
-yt.exe is a console application that takes only 1 argument, so you just need to specify <yt> _ <cmd> on the command line.
+yt.exe is a console application that takes only 1 argument, so you just need to specify the application name and command in the command line.
+
+
 
 Console commands
 ---
