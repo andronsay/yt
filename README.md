@@ -1,6 +1,5 @@
 # yt.exe - Silly Program for YouTube
-This is a silly program that will allow you to open certain YouTube pages from the Windows terminal.
-
+This is a silly program that will quickly open the desired ToyTube page with specific content using a single 4 letter command. Just run the console appended yt with the command below and that's it.
 
 Console commands
 ---
