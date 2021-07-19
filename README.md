@@ -10,7 +10,11 @@ You can install yt.exe to any location convenient for you, however, for a quick 
 Using the app
 ---
 yt.exe is a console application that takes only 1 argument, so you just need to specify the application name and command in the command line.
-
+```
+git status
+git add
+git commit
+```
 
 
 Console commands
