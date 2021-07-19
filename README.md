@@ -3,7 +3,7 @@ This is a silly program that will quickly open the desired YouTube page using a 
 
 Installation
 ---
-You can install yt.exe to any location convenient for you, however, for a quick launch from the command line, it is recommended to copy it to the system folder (C:\Windows\System32\).
+You can install yt.exe to any location convenient for you, however, for a quick launch from the command line, it is recommended to copy it to the system folder (C:\Windows\System32\). The application has been tested on Windows 7 (x32-x64) and Windows 10 (x32-x64).
 
 Using the app
 ---
