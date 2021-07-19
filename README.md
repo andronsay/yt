@@ -4,35 +4,4 @@ This is a silly program that will allow you to open certain YouTube pages from t
 
 Console commands
 ---
-* ### Music ###
-
-<ul>
-  <li>Redes de Computadores</li>
-  <li>Sistemas para Internet
-  <ul>
-  <li>Redes de Computadores</li></ul>
-  
-  </li>
-</ul>
-
-* #### Study Music ####
-
-* [smlo] - study+music+lofi
-* [smpi] - study music piano
-* [smkp] - study music korean
-* [smbt] - study music bts
-* [smjp] - study music japanese
-* [sman] - study music anime
-* [smra] - study music rain
-* [smae] - study music aesthetic
-* [smlb] - study music library
-
-* #### Game Ambience ####
-
-* [gadm] - game ambience DOOM
-* [gaai] - game ambience Alien Isolation
-
-* ### Bloggers ###
-
-* #### Game Bloggers ####
-* [gbpp] - PewDiePie 
+<ul><li>Music<ul><li>Study Music<ul><li>smlo] - study+music+lofi</li><li>smpi] - study music piano</li><li>smkp] - study music korean</li><li>smbt] - study music bts</li><li>smjp] - study music japanese</li><li>sman] - study music anime</li><li>smra] - study music rain</li><li>smae] - study music aesthetic</li><li>smlb] - study music library</li></ul></li><li>Game Ambience<ul><li>gadm] - game ambience DOOM</li><li>gaai] - game ambience Alien Isolation</li></ul></li></ul></li><li>Bloggers<ul><li>Game Bloggers<ul><li>gbpp] - PewDiePie </li></ul></li></ul></li></ul>
