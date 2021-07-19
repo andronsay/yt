@@ -8,7 +8,11 @@ Console commands
 
 <ul>
   <li>Redes de Computadores</li>
-  <li>Sistemas para Internet</li>
+  <li>Sistemas para Internet
+  <ul>
+  <li>Redes de Computadores</li></ul>
+  
+  </li>
 </ul>
 
 * #### Study Music ####
