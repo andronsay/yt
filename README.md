@@ -5,7 +5,7 @@ Installation
 ---
 You can install yt.exe to any location convenient for you, however, for a quick launch from the command line, it is recommended to copy it to the system folder (C:\Windows\System32\).
 
-<yt smlo>
+<yt smlo >
 
 Using the app
 ---
